@@ -234,14 +234,19 @@ button {
     padding-left: 84px;
     padding-right: 84px;
   }
+  #home{padding-top: 5%;}
+}
+@media (min-width: 993px) {
+  
+  #home{padding-top: 5%;}
 }
 
 /*********************************************
 	-	SPACE CLASSES	-
 **********************************************/
 .space-y {
-  padding-top: 96px;
-  padding-bottom: 96px;
+  padding-top: 46px;
+  padding-bottom: 46px;
 }
 
 .space-y-half {
@@ -431,6 +436,7 @@ button {
   .nav-wrap {
     background-color: #28282E;
   }
+
   .nav-wrap .logo-white {
     position: relative;
     max-height: 52px;
@@ -1048,6 +1054,7 @@ button {
     -o-transform: translateX(300px);
     transform: translateX(300px);
   }
+
 }
 
 /* header */
@@ -3220,7 +3227,7 @@ a[data-popup] {
 
 .pages,
 .bg-pattern {
-  background-image: url(../images/pattern/pattern-light.png);
+  background-color: #f7f7f7;
 }
 
 .bg-pattern-dark {
@@ -8521,7 +8528,7 @@ a[data-popup] {
   -webkit-transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
   -moz-transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
   transition: opacity 0.2s ease-in-out, transform 0.2s ease-in-out;
-  background: rgba(242, 111, 112, 0.9);
+  background: rgba(51, 122, 183, 0.51);
 }
 
 .block-item .block-item__details {
@@ -9422,3 +9429,4 @@ a[data-popup] {
 .footer__social li a:hover {
   color: #64d0d0;
 }
+

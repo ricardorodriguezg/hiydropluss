@@ -1,0 +1,313 @@
+            <div id="services" class="pages">
+
+                <div class="container space-y-t">
+
+                    <div class="row">
+
+                        <div class="col-md-12 text-center">
+
+                            <h1 class="section-header">Servicios <span class="underline animated" data-animation="fullWidth"></span></h1>
+
+                        </div>
+                        <!-- / col-md-12 -->
+
+                    </div>
+                    <!-- / row -->
+
+                </div>
+                <!-- / container -->
+
+                <div class="container-fluid space-y-b-h">
+
+                    <div class="row">
+
+                        <div class="col-md-4 content-box-side animated" data-animation="fadeIn">
+
+                            <div class="box-side-details">
+                                <div class="box-side__header"> <i class="fa fa-code"></i>
+                                    <h3 class="standard-title text-uppercase">Lorem ipsum dolor</h3> </div>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi eos, suscipit illum. Doloremque quisquam velit quis ab rerum voluptates cumque, fuga mollitia. Reprehenderit quam similique vero vitae. Error, assumenda, culpa!</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 content-box-side animated" data-animation="fadeIn" data-animation-delay="200">
+
+                            <div class="box-side-details">
+                                <div class="box-side__header"> <i class="fa fa-tablet"></i>
+                                    <h3 class="standard-title text-uppercase">Lorem ipsum dolor </h3> </div>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi eos, suscipit illum. Doloremque quisquam velit quis ab rerum voluptates cumque, fuga mollitia. Reprehenderit quam similique vero vitae. Error, assumenda, culpa!</p>
+                            </div>
+                        </div>
+                        <div class="col-md-4 content-box-side animated" data-animation="fadeIn" data-animation-delay="400">
+
+                            <div class="box-side-details">
+                                <div class="box-side__header"><i class="fa fa-support"></i>
+                                    <h3 class="standard-title text-uppercase">Lorem ipsum dolor</h3> </div>
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi eos, suscipit illum. Doloremque quisquam velit quis ab rerum voluptates cumque, fuga mollitia. Reprehenderit quam similique vero vitae. Error, assumenda, culpa!</p>
+                            </div>
+                        </div>
+
+                    </div>
+                    <!-- end row -->
+
+                </div>
+                <!-- end container -->
+
+                <div class="infograph-container space-y">
+
+                    <div class="container">
+
+                        <div class="row">
+
+                            <div class="col-md-12">
+
+                                <div class="bubble">
+
+                                    <h4 class="bubble-center">
+                                    <span>HydroPlus</span>
+                                    
+                                </h4>
+
+                                    <ul>
+                                        <li class="animated e-commerc" data-animation="bouncIn"><span>Huanuco</span></li>
+                                        <li class="animated html5" data-animation="bouncIn"><span>Calasi</span></li>
+                                        <li class="animated print" data-animation="bouncIn"><span>Hidro Miraflores</span></li>
+                                        <li class="animated responsive" data-animation="bouncIn"><span>Chacamayo</span></li>
+                                        <li class="animated ui" data-animation="bouncIn"><span>San Juan</span></li>
+                                        <li class="animated branding" data-animation="bouncIn"><span>MAyo I</span></li>
+                                        <li class="animated bloging" data-animation="bouncIn"><span>mayo II</span></li>
+                                        <li class="animated motion" data-animation="bouncIn"><span>mayo III</span></li>
+                                        <li class="animated mobile" data-animation="bouncIn"><span>Huanuco</span></li>
+                                    </ul>
+
+                                </div>
+                                <!-- / bubble -->
+
+                            </div>
+                            <!-- / col-md-12 -->
+
+                        </div>
+                        <!-- / row -->
+
+                    </div>
+                    <!-- / container -->
+
+                </div>
+                <!-- / infograph-container -->
+
+            
+
+            </div>
+            <!-- end services -->
+
+            <div id="team" class="pages">
+
+                <div class="container space-y-t">
+
+                    <div class="row">
+
+                        <div class="col-md-12 text-center">
+
+                            <h1 class="section-header">Nuestro Equipo <span class="underline animated" data-animation="fullWidth"></span></h1>
+
+                        </div>
+                        <!-- / col-md-12 -->
+
+                    </div>
+                    <!-- / row -->
+
+                </div>
+                <!-- / container -->
+
+                <div class="container-fluid-flat mag-popup highlight-section2" 
+                    data-popup-type="inline" 
+                    data-popup-gallery-enable="false" 
+                    data-popup-main-class="mfp-fade-x" 
+                    data-popup-removal-delay="800">
+
+                    <div class="row equal-height">
+
+                        <div class="col-md-6">
+
+                            <div class="row">
+
+                                <ul class="img-grid">
+
+                                    <li class="col-md-6 col-sm-6">
+
+                                        <a href="#team1" class="team-block mag-lightbox">
+
+                                            <img src="images/team/1.jpg" alt="">
+
+                                            <div class="team-block__details">
+
+                                                <h3>John Doe</h3>
+                                                <p>seo <i class="separator fa  fa-minus"></i> co founder</p>
+                                                
+                                                <div class="team-block__icon"> read more
+                                                    <i class="fa fa-plus"></i>
+                                                </div>
+
+                                            </div>
+
+                                        </a>
+
+                                        <div id="team1" class="team-details mfp-hide">
+
+                                            <h3 class="standard-title">john doe</h3>
+
+                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo cumque id odit dolorum error debitis sunt aperiam sequi rerum! Aliquam suscipit magni velit error numquam consectetur voluptates facere modi totam.</p>
+
+                                            <ul class="team-details__social-icons clearfix">
+
+                                                <li><a href="#"><i class="fa fa-facebook"></i></a>
+                                                </li>
+
+                                                <li><a href="#"><i class="fa fa-twitter"></i></a>
+                                                </li>
+
+                                                <li><a href="#"><i class="fa fa-google-plus"></i></a>
+                                                </li>
+
+                                            </ul>
+
+                                        </div>
+
+                                    </li>
+                                    <!-- end col-lg-3 -->
+
+                                    <li class="col-md-6 col-sm-6">
+
+                                        <a href="#team1" class="team-block mag-lightbox">
+
+                                            <img src="images/team/2.jpg" alt="">
+
+                                            <div class="team-block__details">
+
+                                                <h3>John Doe</h3>
+                                                <p>seo <i class="separator fa  fa-minus"></i> co founder</p>
+                                                
+                                                <div class="team-block__icon"> read more
+                                                    <i class="fa fa-plus"></i>
+                                                </div>
+
+                                            </div>
+
+                                        </a>
+                                        <!-- / team-band-creative -->
+
+                                    </li>
+                                    <!-- end col-lg-3 -->
+
+                                </ul>
+                                <!-- / img-grid -->
+
+                            </div>
+                            <!-- / row -->
+
+                        </div>
+                        <!-- / col-md-6 -->
+
+                        <div class="col-md-6">
+
+                            <div class="item-img-details">
+
+                                <h3 class="standard-title text-uppercase">our creative developer team <i class="fa fa-file-code-o"></i></h3>
+
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla repellat facere, quasi tenetur unde, officiis ab iste nobis odio magni temporibus dolore maxime reprehenderit alias voluptatum beatae molestiae. Soluta, vitae?</p>
+
+
+                            </div>
+                            <!-- / item-img-details -->
+
+                        </div>
+                        <!-- / col-md-6 -->
+
+                    </div>
+                    <!-- / row -->
+
+                    <div class="row clearfix equal-height">
+
+                        <div class="col-md-6">
+
+                            <div class="item-img-details">
+
+                                <h3 class="standard-title text-uppercase">our creative designer team <i class="fa fa-diamond"></i></h3>
+
+                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla repellat facere, quasi tenetur unde, officiis ab iste nobis odio magni temporibus dolore maxime reprehenderit alias voluptatum beatae molestiae. Soluta, vitae?</p>
+
+                            </div>
+                            <!-- / item-img-details -->
+
+                        </div>
+                        <!-- / col-md-6 -->
+
+                        <div class="col-md-6">
+
+                            <div class="row">
+
+                                <ul class="img-grid">
+
+                                    <li class="col-md-6 col-sm-6">
+
+                                        <a href="#team1" class="team-block mag-lightbox">
+
+                                            <img src="images/team/3.jpg" alt="">
+
+                                            <div class="team-block__details">
+
+                                                <h3>John Doe</h3>
+                                                <p>seo <i class="separator fa  fa-minus"></i> co founder</p>
+                                                
+                                                <div class="team-block__icon"> read more
+                                                    <i class="fa fa-plus"></i>
+                                                </div>
+
+                                            </div>
+
+                                        </a>
+                                        <!-- / team-band-creative -->
+
+                                    </li>
+                                    <!-- end col-lg-3 -->
+
+                                    <li class="col-md-6 col-sm-6">
+
+                                        <a href="#team1" class="team-block mag-lightbox">
+
+                                            <img src="images/team/4.jpg" alt="">
+
+                                            <div class="team-block__details">
+
+                                                <h3>John Doe</h3>
+                                                <p>seo <i class="separator fa  fa-minus"></i> co founder</p>
+                                                
+                                                <div class="team-block__icon"> read more
+                                                    <i class="fa fa-plus"></i>
+                                                </div>
+
+                                            </div>
+
+                                        </a>
+                                        <!-- / team-band-creative -->
+
+                                    </li>
+                                    <!-- end col-lg-3 -->
+
+                                </ul>
+                                <!-- / img-grid -->
+
+                            </div>
+                            <!-- / row -->
+
+                        </div>
+                        <!-- / col-md-6 -->
+
+                    </div>
+                    <!-- / row -->
+
+                </div>
+                <!-- / container-fluid-flat -->
+
+            </div>
+            <!-- end team 
